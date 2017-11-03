@@ -7,3 +7,7 @@ hide_body: false
 fields:
 - type: text
   default: test2
+- type: text
+  default: hans wurst
+  config:
+    required: true
